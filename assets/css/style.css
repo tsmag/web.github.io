@@ -144,7 +144,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 @media (max-width: 992px) {
@@ -1893,4 +1893,14 @@ section {
   background: #3194db;
   color: #fff;
   text-decoration: none;
+}
+.rnb-red {
+  color: red;
+  font-weight: bold;
+}
+
+.rnb-logo {
+  max-height: 600px;
+  margin-right: 10px;
+  vertical-align: middle;
 }
